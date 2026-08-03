@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi there, I'm Parshamsha Paudel 👋
 
-<!--
-**parshamshapaudel/parshamshapaudel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I'm **Parshamsha Paudel**, currently pursuing a **B.Tech in Computer Engineering** at **PDPU, India**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy learning new technologies, building web projects, and improving my programming skills one step at a time.
+
+---
+
+## 🛠️ Skills
+
+- HTML
+- CSS
+- JavaScript
+- Python
+- Figma
+
+---
+
+## 📫 Contact
+
+- **Email:** parshamshapaudel@gmail.com
+
+---
+
+## 🚀 Currently Learning
+
+- React
+- Modern JavaScript
+- UI/UX Design
+- Problem Solving
+
+---
+
+> *"Always learning, always building."*
